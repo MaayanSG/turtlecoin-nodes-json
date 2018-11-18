@@ -276,5 +276,11 @@
       "port": 11898,
       "ssl": false
     }
+    ,
+    {
+     "Name": "Maayan Node",
+      "url": "73.85.221.146",
+      "port": 11898,
+       "ssl": false
   ]
 }
